@@ -1,0 +1,5 @@
+Component: main
+Origin: pmateusz.github.io/debian-stretch
+Label: pmateusz.github.io/debian-stretch
+Architecture: amd64
+Description: Personal repository

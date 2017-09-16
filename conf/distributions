@@ -1,0 +1,8 @@
+Origin: pmateusz.github.io/debian-stretch
+Label: pmateusz.github.io/debian-stretch
+Codename: stretch
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: B2323F7E
+

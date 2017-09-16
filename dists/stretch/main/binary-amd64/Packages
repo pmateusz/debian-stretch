@@ -1,0 +1,71 @@
+Package: libgflags-dev
+Version: 2.1.2
+Architecture: amd64
+Installed-Size: 1562
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libg/libgflags-dev/libgflags-dev_2.1.2_amd64.deb
+Size: 272532
+SHA256: b74395e2948ac8b471086de94126bf65cb6463a7ffcb9568d8c1cd519a8a08b5
+SHA1: b17f50aefc45c371048a04622ed4e3aa4c066fe7
+MD5sum: 9a8dfe496cd6dfb6d21fa7a5059526ff
+Description: The gflags package contains a C++ library that implements commandline flags processing.
+
+Package: libglog-dev
+Version: 0.3.4
+Architecture: amd64
+Installed-Size: 512
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libg/libglog-dev/libglog-dev_0.3.4_amd64.deb
+Size: 119588
+SHA256: 425e49aedd8c33e4c23fe3c35e21ca79e611055bb710bec9dfe2556e59c13ff1
+SHA1: 1cfc17b15fe03aa11f6062fcbc83055b87129cb3
+MD5sum: b0a8bfa7eb5d0faabd1c41cf4b3a15c4
+Description: C++ implementation of the Google logging module
+
+Package: libgtest-dev
+Version: 1.8.0
+Architecture: amd64
+Installed-Size: 7491
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libg/libgtest-dev/libgtest-dev_1.8.0_amd64.deb
+Size: 1151212
+SHA256: de610e33379b43aa5197aa6dde51170a701b83ced4af4223fbd04668912025bd
+SHA1: 58c80b1a793047684ac77403ff7d4ab2175e86ee
+MD5sum: fd0ecdc490e0d50b513670288800a192
+Description: Google's C++ test framework
+
+Package: libortools-dev
+Version: 6.4
+Architecture: amd64
+Depends: git (>= 1:1.9.1), bison (>= 2:3.0.2), flex (>= 2.5.35), python-setuptools (>= 3.3), python-dev (>= 2.7.0), autoconf (>= 2.69), libtool (>= 2.4.2), zlib1g-dev (>= 1:1.2.8), texinfo (>= 5.2.0), help2man (>= 1.44.0), gawk (>= 1:4.0), g++ (>= 4:4.8.0), curl (>= 7.35.0), texlive, subversion (>= 1.8.0)
+Installed-Size: 126622
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libo/libortools-dev/libortools-dev_6.4_amd64.deb
+Size: 31407106
+SHA256: d5c8f6512d5ec2b8f11ce1f8c305601868fe23ceb8948f5587899f3cc94395b0
+SHA1: 4baf63b31716a23c2202cc630e0f45324d929058
+MD5sum: 3f273571f6ce3b2951d8b47cc948e539
+Description: Google Optimization Tools
+
+Package: libsparsehash-dev
+Version: 2.0.3
+Architecture: amd64
+Installed-Size: 615
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libs/libsparsehash-dev/libsparsehash-dev_2.0.3_amd64.deb
+Size: 127872
+SHA256: 387f406d750dfde75576cd5c58b2227416807d6d54fbd4422e9969c4ce53cfc8
+SHA1: 23cf8e1e2f520a41c5a1c6b631e732897ab9dbe2
+MD5sum: de158e2a6fae697acfc5e115a772d8aa
+Description: C++ associative containers
+

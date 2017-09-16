@@ -1,0 +1,19 @@
+Origin: pmateusz.github.io/debian-stretch
+Label: pmateusz.github.io/debian-stretch
+Codename: stretch
+Date: Sat, 16 Sep 2017 13:56:00 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 5017292e5d7ac03ba90920269ecac810 2594 main/binary-amd64/Packages
+ 295fc1547a069218f130e063b82433c9 1119 main/binary-amd64/Packages.gz
+ 5423affe446f297f604afd16e503c755 152 main/binary-amd64/Release
+SHA1:
+ 6fae99dd97bed414ed04bc3d8c39904368fed360 2594 main/binary-amd64/Packages
+ 36bfd5ed1b4c7a9872ca4b752f080eed84a1b9d1 1119 main/binary-amd64/Packages.gz
+ cbc8472133e46f4800599bff8c3157ad22af17a0 152 main/binary-amd64/Release
+SHA256:
+ ae685bbcaed470ca2425c724dcad8d9450dc5a77db73a3b1f43483c21cd7d599 2594 main/binary-amd64/Packages
+ 691666c53da79f0e9a2e8d00861e9ad3a4042ff3ab044bc42579de04df0881b7 1119 main/binary-amd64/Packages.gz
+ 76c179aa4c6f89553e088f5cc21a46e6315704df7ce8d838b7c57500e9c1f90b 152 main/binary-amd64/Release
