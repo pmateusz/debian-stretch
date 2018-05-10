@@ -41,18 +41,18 @@ MD5sum: fd0ecdc490e0d50b513670288800a192
 Description: Google's C++ test framework
 
 Package: libortools-dev
-Version: 6.4
+Version: 6.5
 Architecture: amd64
 Depends: git (>= 1:1.9.1), bison (>= 2:3.0.2), flex (>= 2.5.35), python-setuptools (>= 3.3), python-dev (>= 2.7.0), autoconf (>= 2.69), libtool (>= 2.4.2), zlib1g-dev (>= 1:1.2.8), texinfo (>= 5.2.0), help2man (>= 1.44.0), gawk (>= 1:4.0), g++ (>= 4:4.8.0), curl (>= 7.35.0), texlive, subversion (>= 1.8.0)
-Installed-Size: 126622
+Installed-Size: 126681
 Maintainer: mateusz.polnik at strath.ac.uk
 Priority: optional
 Section: devel
-Filename: pool/main/libo/libortools-dev/libortools-dev_6.4_amd64.deb
-Size: 31407106
-SHA256: d5c8f6512d5ec2b8f11ce1f8c305601868fe23ceb8948f5587899f3cc94395b0
-SHA1: 4baf63b31716a23c2202cc630e0f45324d929058
-MD5sum: 3f273571f6ce3b2951d8b47cc948e539
+Filename: pool/main/libo/libortools-dev/libortools-dev_6.5_amd64.deb
+Size: 31426728
+SHA256: 79c3876430162f9074025bb780fd4bc85ce00a5f3d3ca0a9873ae6d79679e04a
+SHA1: b8a8d8818fe0fed156f5b188eb32fc46cea4f7d1
+MD5sum: 308902337b45bc48b606c784c6192412
 Description: Google Optimization Tools
 
 Package: libsparsehash-dev
